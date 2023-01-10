@@ -1,4 +1,4 @@
-# access_denied_project
+# AR Enhanced Learning Platform
 
 Objective : We want everyone to get quality education. We want to bring all the stake holders of education system together. We want to make  education and learning fun and lively which will enhance the learning capability and will help spread education among all sections and ages of people very easily. Bringing in new technologies in education, will enrich our education system and will help our youth and students to development themselves in an overall manner. 
 
